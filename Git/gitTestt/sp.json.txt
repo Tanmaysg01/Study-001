@@ -1,0 +1,2177 @@
+{ 
+
+    "startAt": 0, 
+
+    "maxResults": 37, 
+
+    "total": 37, 
+
+    "histories": [ 
+
+        { 
+
+            "id": "15532034", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-07-24T16:02:28.023-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "assignee", 
+
+                    "fieldtype": "jira", 
+
+                    "from": null, 
+
+                    "fromString": null, 
+
+                    "to": "JIRAUSER39324", 
+
+                    "toString": "Yeomans, Ben" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15532535", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-07-24T16:49:43.983-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "labels", 
+
+                    "fieldtype": "jira", 
+
+                    "from": null, 
+
+                    "fromString": "", 
+
+                    "to": null, 
+
+                    "toString": "2023_Q3 DEM_Partial" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15619546", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-03T10:36:38.570-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Sprint", 
+
+                    "fieldtype": "custom", 
+
+                    "from": null, 
+
+                    "fromString": null, 
+
+                    "to": "45316", 
+
+                    "toString": "ADAPT-2023-Q3-S05 0920" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15619552", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-03T10:36:40.380-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Rank", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "", 
+
+                    "fromString": "", 
+
+                    "to": "", 
+
+                    "toString": "Ranked lower" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15641008", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-07T14:19:02.250-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Sprint", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "45316", 
+
+                    "fromString": "ADAPT-2023-Q3-S05 0920", 
+
+                    "to": "45326", 
+
+                    "toString": "ADAPT-2023-Q4-S01 1018" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15641012", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-07T14:19:03.580-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Rank", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "", 
+
+                    "fromString": "", 
+
+                    "to": "", 
+
+                    "toString": "Ranked higher" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15641020", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-07T14:19:27.963-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Sprint", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "45326", 
+
+                    "fromString": "ADAPT-2023-Q4-S01 1018", 
+
+                    "to": "45328", 
+
+                    "toString": "ADAPT-2023-Q4-S03 1115" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15641031", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-07T14:19:56.277-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Sprint", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "45328", 
+
+                    "fromString": "ADAPT-2023-Q4-S03 1115", 
+
+                    "to": "45327", 
+
+                    "toString": "ADAPT-2023-Q4-S02 1101" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15641033", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-07T14:19:56.827-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Rank", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "", 
+
+                    "fromString": "", 
+
+                    "to": "", 
+
+                    "toString": "Ranked lower" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15641038", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-07T14:20:09.343-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Sprint", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "45327", 
+
+                    "fromString": "ADAPT-2023-Q4-S02 1101", 
+
+                    "to": "45326", 
+
+                    "toString": "ADAPT-2023-Q4-S01 1018" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15641040", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-07T14:20:10.377-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Rank", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "", 
+
+                    "fromString": "", 
+
+                    "to": "", 
+
+                    "toString": "Ranked higher" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15829820", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-29T15:09:23.980-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "labels", 
+
+                    "fieldtype": "jira", 
+
+                    "from": null, 
+
+                    "fromString": "2023_Q3 DEM_Partial", 
+
+                    "to": null, 
+
+                    "toString": "2023_Q3 Adapt_SE DEM_Partial" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15855026", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-31T12:58:53.683-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "assignee", 
+
+                    "fieldtype": "jira", 
+
+                    "from": "JIRAUSER39324", 
+
+                    "fromString": "Yeomans, Ben", 
+
+                    "to": null, 
+
+                    "toString": null 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15855034", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-31T13:00:45.180-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Sprint", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "45326", 
+
+                    "fromString": "ADAPT-2023-Q4-S01 1018", 
+
+                    "to": "45316", 
+
+                    "toString": "ADAPT-2023-Q3-S05 0920" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15855036", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-31T13:00:45.900-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Rank", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "", 
+
+                    "fromString": "", 
+
+                    "to": "", 
+
+                    "toString": "Ranked higher" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15855056", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-31T13:02:57.937-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "assignee", 
+
+                    "fieldtype": "jira", 
+
+                    "from": null, 
+
+                    "fromString": null, 
+
+                    "to": "JIRAUSER42636", 
+
+                    "toString": "Gupta, Yash" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15855058", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-31T13:03:24.183-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Sprint", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "45316", 
+
+                    "fromString": "ADAPT-2023-Q3-S05 0920", 
+
+                    "to": "45315", 
+
+                    "toString": "ADAPT-2023-Q3-S04 0906" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15855060", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-31T13:03:25.073-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Rank", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "", 
+
+                    "fromString": "", 
+
+                    "to": "", 
+
+                    "toString": "Ranked lower" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15855061", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-31T13:03:33.760-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Rank", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "", 
+
+                    "fromString": "", 
+
+                    "to": "", 
+
+                    "toString": "Ranked lower" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15855062", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-31T13:03:37.260-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Sprint", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "45315", 
+
+                    "fromString": "ADAPT-2023-Q3-S04 0906", 
+
+                    "to": "45316", 
+
+                    "toString": "ADAPT-2023-Q3-S05 0920" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15855063", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-31T13:03:37.493-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Rank", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "", 
+
+                    "fromString": "", 
+
+                    "to": "", 
+
+                    "toString": "Ranked higher" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15856498", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-31T14:55:52.203-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Sprint", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "45316", 
+
+                    "fromString": "ADAPT-2023-Q3-S05 0920", 
+
+                    "to": "45317", 
+
+                    "toString": "ADAPT-2023-Q3-S06 1004 (IP)" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "15856499", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-08-31T14:55:52.703-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Rank", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "", 
+
+                    "fromString": "", 
+
+                    "to": "", 
+
+                    "toString": "Ranked lower" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "16110382", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-10-02T21:25:26.650-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Sprint", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "45317", 
+
+                    "fromString": "ADAPT-2023-Q3-S06 1004 (IP)", 
+
+                    "to": "45326", 
+
+                    "toString": "ADAPT-2023-Q4-S01 1018" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "16110383", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-10-02T21:25:27.057-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Rank", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "", 
+
+                    "fromString": "", 
+
+                    "to": "", 
+
+                    "toString": "Ranked higher" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "16110384", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-10-02T21:25:31.573-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Rank", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "", 
+
+                    "fromString": "", 
+
+                    "to": "", 
+
+                    "toString": "Ranked lower" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "16125800", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=MPerea", 
+
+                "name": "MPerea", 
+
+                "key": "JIRAUSER43920", 
+
+                "emailAddress": "Miguel.Perea@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER43920&avatarId=43638", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER43920&avatarId=43638", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER43920&avatarId=43638", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER43920&avatarId=43638" 
+
+                }, 
+
+                "displayName": "Perea, Miguel", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-10-04T09:39:35.613-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Rank", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "", 
+
+                    "fromString": "", 
+
+                    "to": "", 
+
+                    "toString": "Ranked higher" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "16203548", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-10-11T08:57:34.153-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Rank", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "", 
+
+                    "fromString": "", 
+
+                    "to": "", 
+
+                    "toString": "Ranked higher" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "16258137", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-10-17T09:31:39.180-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Sprint", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "45326", 
+
+                    "fromString": "ADAPT-2023-Q4-S01 1018", 
+
+                    "to": "45327", 
+
+                    "toString": "ADAPT-2023-Q4-S02 1101" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "16258138", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=BRYeoma", 
+
+                "name": "BRYeoma", 
+
+                "key": "JIRAUSER39324", 
+
+                "emailAddress": "Ben.Yeomans@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&ownerId=JIRAUSER39324&avatarId=39313", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&ownerId=JIRAUSER39324&avatarId=39313" 
+
+                }, 
+
+                "displayName": "Yeomans, Ben", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-10-17T09:31:39.713-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "Rank", 
+
+                    "fieldtype": "custom", 
+
+                    "from": "", 
+
+                    "fromString": "", 
+
+                    "to": "", 
+
+                    "toString": "Ranked lower" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "16387609", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=YGupta1", 
+
+                "name": "YGupta1", 
+
+                "key": "JIRAUSER42636", 
+
+                "emailAddress": "Yash.Gupta@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?avatarId=10342", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&avatarId=10342", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&avatarId=10342", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&avatarId=10342" 
+
+                }, 
+
+                "displayName": "Gupta, Yash", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-11-02T09:01:08.577-0400", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "status", 
+
+                    "fieldtype": "jira", 
+
+                    "from": "10000", 
+
+                    "fromString": "To Do", 
+
+                    "to": "3", 
+
+                    "toString": "In Progress" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "16403273", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=YGupta1", 
+
+                "name": "YGupta1", 
+
+                "key": "JIRAUSER42636", 
+
+                "emailAddress": "Yash.Gupta@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?avatarId=10342", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&avatarId=10342", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&avatarId=10342", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&avatarId=10342" 
+
+                }, 
+
+                "displayName": "Gupta, Yash", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-11-06T06:02:34.747-0500", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "status", 
+
+                    "fieldtype": "jira", 
+
+                    "from": "3", 
+
+                    "fromString": "In Progress", 
+
+                    "to": "19204", 
+
+                    "toString": "Code Review" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "16419401", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=YGupta1", 
+
+                "name": "YGupta1", 
+
+                "key": "JIRAUSER42636", 
+
+                "emailAddress": "Yash.Gupta@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?avatarId=10342", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&avatarId=10342", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&avatarId=10342", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&avatarId=10342" 
+
+                }, 
+
+                "displayName": "Gupta, Yash", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-11-07T10:06:52.193-0500", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "resolution", 
+
+                    "fieldtype": "jira", 
+
+                    "from": null, 
+
+                    "fromString": null, 
+
+                    "to": "10100", 
+
+                    "toString": "Done" 
+
+                }, 
+
+                { 
+
+                    "field": "status", 
+
+                    "fieldtype": "jira", 
+
+                    "from": "19204", 
+
+                    "fromString": "Code Review", 
+
+                    "to": "10001", 
+
+                    "toString": "Done" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "16482143", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=KStMatt", 
+
+                "name": "KStMatt", 
+
+                "key": "JIRAUSER36832", 
+
+                "emailAddress": "Kimbaly.St.Matthew-Daniel@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?avatarId=10349", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&avatarId=10349", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&avatarId=10349", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&avatarId=10349" 
+
+                }, 
+
+                "displayName": "St. Matthew-Daniel, Kimbaly", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2023-11-15T00:04:27.403-0500", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "labels", 
+
+                    "fieldtype": "jira", 
+
+                    "from": null, 
+
+                    "fromString": "2023_Q3 Adapt_SE DEM_Partial", 
+
+                    "to": null, 
+
+                    "toString": "2023_Q3 2023_Q4 Adapt_SE DEM_Partial" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "17006689", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=SPateka", 
+
+                "name": "SPateka", 
+
+                "key": "JIRAUSER40627", 
+
+                "emailAddress": "Suraj.Patekar@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?avatarId=10336", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&avatarId=10336", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&avatarId=10336", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&avatarId=10336" 
+
+                }, 
+
+                "displayName": "Patekar, Suraj", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2024-01-29T04:20:32.583-0500", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "status", 
+
+                    "fieldtype": "jira", 
+
+                    "from": "10001", 
+
+                    "fromString": "Done", 
+
+                    "to": "3", 
+
+                    "toString": "In Progress" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "17006690", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=SPateka", 
+
+                "name": "SPateka", 
+
+                "key": "JIRAUSER40627", 
+
+                "emailAddress": "Suraj.Patekar@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?avatarId=10336", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&avatarId=10336", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&avatarId=10336", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&avatarId=10336" 
+
+                }, 
+
+                "displayName": "Patekar, Suraj", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2024-01-29T04:20:45.890-0500", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "status", 
+
+                    "fieldtype": "jira", 
+
+                    "from": "3", 
+
+                    "fromString": "In Progress", 
+
+                    "to": "3", 
+
+                    "toString": "In Progress" 
+
+                } 
+
+            ] 
+
+        }, 
+
+        { 
+
+            "id": "17006691", 
+
+            "author": { 
+
+                "self": "https://jiraprod.duke-energy.com/rest/api/2/user?username=SPateka", 
+
+                "name": "SPateka", 
+
+                "key": "JIRAUSER40627", 
+
+                "emailAddress": "Suraj.Patekar@duke-energy.com", 
+
+                "avatarUrls": { 
+
+                    "48x48": "https://jiraprod.duke-energy.com/secure/useravatar?avatarId=10336", 
+
+                    "24x24": "https://jiraprod.duke-energy.com/secure/useravatar?size=small&avatarId=10336", 
+
+                    "16x16": "https://jiraprod.duke-energy.com/secure/useravatar?size=xsmall&avatarId=10336", 
+
+                    "32x32": "https://jiraprod.duke-energy.com/secure/useravatar?size=medium&avatarId=10336" 
+
+                }, 
+
+                "displayName": "Patekar, Suraj", 
+
+                "active": true, 
+
+                "timeZone": "America/New_York" 
+
+            }, 
+
+            "created": "2024-01-29T04:20:58.347-0500", 
+
+            "items": [ 
+
+                { 
+
+                    "field": "status", 
+
+                    "fieldtype": "jira", 
+
+                    "from": "3", 
+
+                    "fromString": "In Progress", 
+
+                    "to": "10001", 
+
+                    "toString": "Done" 
+
+                } 
+
+            ] 
+
+        } 
+
+    ] 
+
+} 
+
+ 
